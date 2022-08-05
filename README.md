@@ -1,0 +1,1 @@
+# azurefunction-graphapi-beta-signin-activity
